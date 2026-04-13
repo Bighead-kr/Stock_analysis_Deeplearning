@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+yfinance
+torch
+torchvision
+scikit-learn
+matplotlib
+seaborn
+python-dotenv
+mojito2
+openai
